@@ -2,7 +2,7 @@
 /**
  * Register all actions and filters for the plugin
  *
- * @link https://neoslab.com
+ * @link https://sqoove.com
  * @since 1.0.0
  *
  * @package Custom_Email_Sender
@@ -13,7 +13,7 @@
  * Class `Custom_Email_Sender_Loader`
  * @package Custom_Email_Sender
  * @subpackage Custom_Email_Sender/includes
- * @author NeosLab <contact@neoslab.com>
+ * @author Sqoove <support@sqoove.com>
 */
 class Custom_Email_Sender_Loader
 {
