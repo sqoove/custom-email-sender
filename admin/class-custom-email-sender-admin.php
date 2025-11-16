@@ -50,7 +50,7 @@ class Custom_Email_Sender_Admin
 	*/
 	public function enqueue_styles()
 	{
-		wp_register_style($this->pluginName.'-fontawesome', plugin_dir_url(__FILE__).'assets/styles/fontawesome.min.css', array(), $this->version, 'all');
+		wp_register_style($this->pluginName.'-fontawesome', plugin_dir_url(__FILE__).'assets/fonts/fontawesome/css/all.min.css', array(), $this->version, 'all');
 		wp_register_style($this->pluginName.'-dashboard', plugin_dir_url(__FILE__).'assets/styles/custom-email-sender-admin.min.css', array(), $this->version, 'all');
 		wp_enqueue_style($this->pluginName.'-fontawesome');
 		wp_enqueue_style($this->pluginName.'-dashboard');
@@ -67,11 +67,11 @@ class Custom_Email_Sender_Admin
 	}
 
 	/**
-	 * Return the plugin header
+	 * Return the header
 	*/
 	public function return_plugin_header()
 	{
-		$html = '<div class="wpbnd-header-plugin"><span class="header-icon"><i class="fas fa-sliders-h"></i></span> <span class="header-text">'.__('Custom Email Sender', 'custom-email-sender').'</span></div>';
+		$html = '<div class="wpdx-header"><span class="header-icon"><i class="fas fa-sliders-h"></i></span> <span class="header-text">'.__('Custom Email Sender', 'custom-email-sender').'</span></div>';
 		return $html;
 	}
 

@@ -29,6 +29,12 @@ Custom Email Sender allows you to easily customize the default email sender name
 
 ## Changelog
 
+### 2.6.1 (2025-11-16)
+
+- Added WPML support for page content
+- Code revision and optimization
+- Security and performance audit
+
 ### 2.6.0 (2025-04-25)
 
 - Code revision and optimization  

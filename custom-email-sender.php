@@ -15,7 +15,7 @@
  * Plugin Name: Custom Email Sender
  * Plugin URI: https://wordpress.org/plugins/custom-email-sender/
  * Description: Change the default email address and sender name output for all message sent from your WP dashboard.
- * Version: 2.6.0
+ * Version: 2.6.1
  * Author: Sqoove
  * Author URI: https://sqoove.com
  * License: GPL-2.0+
@@ -37,7 +37,7 @@ if(!defined('WPINC'))
  * Start at version 1.0.0 and use SemVer - https://semver.org
  * Rename this for your plugin and update it as you release new versions
 */
-define('CUSTOM_EMAIL_SENDER_VERSION', '2.6.0');
+define('CUSTOM_EMAIL_SENDER_VERSION', '2.6.1');
 
 /**
  * The code that runs during plugin activation
