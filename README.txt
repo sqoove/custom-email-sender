@@ -3,7 +3,7 @@ Contributors: Sqoove
 Tags: sender name, wordpress sender name, wordpress sender email, sender email, wordpress default email sender
 Requires at least: 4.9
 Tested up to: 6.8.3
-Stable tag: 2.6.2
+Stable tag: 2.6.3
 License URI: https://raw.githubusercontent.com/sqoove/custom-email-sender/refs/heads/main/LICENSE
 
 Change the default email address and sender name output for all message sent from your WP dashboard.
@@ -23,6 +23,9 @@ Custom Email Sender allow you to easily customize the default email sender name 
 1. A general view of the plugin "options" page.
 
 == Changelog ==
+
+= 2.6.3 (2025-12-01) =
+* Code revision and optimization
 
 = 2.6.2 (2025-11-19) =
 * Fontawesome update

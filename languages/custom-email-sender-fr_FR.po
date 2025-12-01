@@ -18,7 +18,7 @@ msgstr ""
 #: custom-email-sender.php
 #: admin/class-custom-email-sender-admin.php:74
 msgid "Custom Email Sender"
-msgstr "Expéditeur d’e-mails personnalisé"
+msgstr "Expéditeur d'e-mails personnalisé"
 
 #. Plugin URI of the plugin
 #: custom-email-sender.php
@@ -28,7 +28,7 @@ msgstr "https://wordpress.org/plugins/custom-email-sender/"
 #. Description of the plugin
 #: custom-email-sender.php
 msgid "Change the default email address and sender name output for all message sent from your WP dashboard."
-msgstr "Modifiez l’adresse e-mail et le nom d’expéditeur par défaut pour tous les messages envoyés depuis votre tableau de bord WordPress."
+msgstr "Modifiez l'adresse e-mail et le nom d'expéditeur par défaut pour tous les messages envoyés depuis votre tableau de bord WordPress."
 
 #. Author of the plugin
 #: custom-email-sender.php
@@ -50,11 +50,11 @@ msgstr "Vos paramètres ont été mis à jour avec succès."
 
 #: admin/partials/custom-email-sender-admin-options.php:10
 msgid "The email address is not valid !!"
-msgstr "L’adresse e-mail n’est pas valide !!"
+msgstr "L'adresse e-mail n'est pas valide !!"
 
 #: admin/partials/custom-email-sender-admin-options.php:14
 msgid "The sender name is not valid !!"
-msgstr "Le nom d’expéditeur n’est pas valide !!"
+msgstr "Le nom d'expéditeur n'est pas valide !!"
 
 #: admin/partials/custom-email-sender-admin-options.php:18
 msgid "An unknown error occured !!"
@@ -62,35 +62,35 @@ msgstr "Une erreur inconnue est survenue !!"
 
 #: admin/partials/custom-email-sender-admin-options.php:38
 msgid "You have not set up your sender name and email address ! In order to do so, please use the below form."
-msgstr "Vous n’avez pas encore défini votre nom d’expéditeur et votre adresse e-mail ! Pour ce faire, veuillez utiliser le formulaire ci-dessous."
+msgstr "Vous n'avez pas encore défini votre nom d'expéditeur et votre adresse e-mail ! Pour ce faire, veuillez utiliser le formulaire ci-dessous."
 
 #: admin/partials/custom-email-sender-admin-options.php:43
 msgid "Your plugin is properly configured ! You can change at anytime your sender name and email address using the below form."
-msgstr "Votre plugin est correctement configuré ! Vous pouvez modifier à tout moment le nom et l’adresse e-mail de l’expéditeur via le formulaire ci-dessous."
+msgstr "Votre plugin est correctement configuré ! Vous pouvez modifier à tout moment le nom et l'adresse e-mail de l'expéditeur via le formulaire ci-dessous."
 
 #: admin/partials/custom-email-sender-admin-options.php:52
 msgid "Sender Name"
-msgstr "Nom de l’expéditeur"
+msgstr "Nom de l'expéditeur"
 
 #: admin/partials/custom-email-sender-admin-options.php:53
 msgid "Enter the sender name"
-msgstr "Saisissez le nom de l’expéditeur"
+msgstr "Saisissez le nom de l'expéditeur"
 
 #: admin/partials/custom-email-sender-admin-options.php:54
 msgid "Enter the sender name as you want it to appear when email are sent (Min. 3 characters)."
-msgstr "Entrez le nom d’expéditeur tel qu’il apparaîtra dans les e-mails envoyés (min. 3 caractères)."
+msgstr "Entrez le nom d'expéditeur tel qu'il apparaîtra dans les e-mails envoyés (min. 3 caractères)."
 
 #: admin/partials/custom-email-sender-admin-options.php:58
 msgid "Sender Email"
-msgstr "E-mail de l’expéditeur"
+msgstr "E-mail de l'expéditeur"
 
 #: admin/partials/custom-email-sender-admin-options.php:59
 msgid "Enter the email address"
-msgstr "Saisissez l’adresse e-mail"
+msgstr "Saisissez l'adresse e-mail"
 
 #: admin/partials/custom-email-sender-admin-options.php:60
 msgid "Enter the sender email as you want it to appear when email are sent (Must be a valid email address)."
-msgstr "Entrez l’adresse e-mail d’expéditeur telle qu’elle apparaîtra dans les e-mails envoyés (doit être valide)."
+msgstr "Entrez l'adresse e-mail d'expéditeur telle qu'elle apparaîtra dans les e-mails envoyés (doit être valide)."
 
 #: admin/partials/custom-email-sender-admin-options.php:63
 msgid "Update Settings"

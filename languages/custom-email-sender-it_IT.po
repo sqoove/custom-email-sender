@@ -28,7 +28,7 @@ msgstr "https://wordpress.org/plugins/custom-email-sender/"
 #. Description of the plugin
 #: custom-email-sender.php
 msgid "Change the default email address and sender name output for all message sent from your WP dashboard."
-msgstr "Modifica l’indirizzo email e il nome del mittente predefiniti per tutti i messaggi inviati dal tuo pannello di WordPress."
+msgstr "Modifica l'indirizzo email e il nome del mittente predefiniti per tutti i messaggi inviati dal tuo pannello di WordPress."
 
 #. Author of the plugin
 #: custom-email-sender.php
@@ -50,7 +50,7 @@ msgstr "Le impostazioni sono state aggiornate con successo."
 
 #: admin/partials/custom-email-sender-admin-options.php:10
 msgid "The email address is not valid !!"
-msgstr "L’indirizzo email non è valido!"
+msgstr "L'indirizzo email non è valido!"
 
 #: admin/partials/custom-email-sender-admin-options.php:14
 msgid "The sender name is not valid !!"
@@ -62,11 +62,11 @@ msgstr "Si è verificato un errore sconosciuto!"
 
 #: admin/partials/custom-email-sender-admin-options.php:38
 msgid "You have not set up your sender name and email address ! In order to do so, please use the below form."
-msgstr "Non hai ancora impostato il nome e l’indirizzo email del mittente! Per farlo, utilizza il modulo qui sotto."
+msgstr "Non hai ancora impostato il nome e l'indirizzo email del mittente! Per farlo, utilizza il modulo qui sotto."
 
 #: admin/partials/custom-email-sender-admin-options.php:43
 msgid "Your plugin is properly configured ! You can change at anytime your sender name and email address using the below form."
-msgstr "Il plugin è configurato correttamente! Puoi modificare in qualsiasi momento il nome e l’indirizzo email del mittente usando il modulo sottostante."
+msgstr "Il plugin è configurato correttamente! Puoi modificare in qualsiasi momento il nome e l'indirizzo email del mittente usando il modulo sottostante."
 
 #: admin/partials/custom-email-sender-admin-options.php:52
 msgid "Sender Name"
@@ -86,11 +86,11 @@ msgstr "Email del mittente"
 
 #: admin/partials/custom-email-sender-admin-options.php:59
 msgid "Enter the email address"
-msgstr "Inserisci l’indirizzo email"
+msgstr "Inserisci l'indirizzo email"
 
 #: admin/partials/custom-email-sender-admin-options.php:60
 msgid "Enter the sender email as you want it to appear when email are sent (Must be a valid email address)."
-msgstr "Inserisci l’indirizzo email del mittente come vuoi che appaia nelle email inviate (deve essere valido)."
+msgstr "Inserisci l'indirizzo email del mittente come vuoi che appaia nelle email inviate (deve essere valido)."
 
 #: admin/partials/custom-email-sender-admin-options.php:63
 msgid "Update Settings"
