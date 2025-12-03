@@ -2,7 +2,7 @@
 Contributors: Sqoove
 Tags: sender name, wordpress sender name, wordpress sender email, sender email, wordpress default email sender
 Requires at least: 4.9
-Tested up to: 6.8.3
+Tested up to: 6.9.0
 Stable tag: 2.6.3
 License URI: https://raw.githubusercontent.com/sqoove/custom-email-sender/refs/heads/main/LICENSE
 
